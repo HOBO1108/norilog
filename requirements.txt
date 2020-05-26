@@ -1,0 +1,7 @@
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+-e git+https://github.com/HOBO1108/norilog@fd9f74de59c9e3df864e829eb8a37c4a3bf8cd6d#egg=norilog
+Werkzeug==1.0.1
